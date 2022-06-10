@@ -30,7 +30,7 @@
     "backbone": "1.4.0",
     "bootstrap": "4.5.0",
     "bootstrap-vue": "^2.21.2",
-    "citation-js": "^0.5.1",
+    "citation-js": "^0.5.7",
     "d3": "3",
     "date-fns": "^2.24.0",
     "decode-uri-component": "^0.2.0",
