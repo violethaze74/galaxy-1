@@ -28,7 +28,7 @@
     "@sentry/browser": "^5.20.1",
     "axios": "^0.21.1",
     "backbone": "1.4.0",
-    "bootstrap": "4.5.0",
+    "bootstrap": "4.6.1",
     "bootstrap-vue": "^2.21.2",
     "citation-js": "^0.5.1",
     "d3": "3",
