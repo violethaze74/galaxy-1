@@ -126,7 +126,7 @@ pastedeploy==2.1.1
 pbr==5.6.0; python_version >= "3.6"
 prettytable==0.7.2; python_version >= "3.6"
 prompt-toolkit==3.0.3; python_version >= "3.6"
-protobuf==3.15.8; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
+protobuf==3.18.3; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
 prov==1.5.1; python_version >= "3.6" and python_version < "4"
 psutil==5.8.0; (python_version >= "2.6" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
 pulsar-galaxy-lib==0.14.10
